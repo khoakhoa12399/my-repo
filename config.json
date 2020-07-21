@@ -1,0 +1,10 @@
+{
+	"device_id" : "Nhom4",
+	"username" : "dadn",
+	"password" : "HCMUT192dadn",
+	"host" : "localhost",
+	"port" : 1883,
+	"keepAlive" : 10000,
+  "up_topic": "Topic/Speaker",
+  "down_topic": "Topic/TempHumi"
+}
